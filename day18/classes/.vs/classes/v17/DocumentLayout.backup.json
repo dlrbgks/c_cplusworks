@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day18\\classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\StudentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:StudentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\circleMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:circleMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day18\\classes\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC772F3-2E3D-4D63-B59E-73FCC95DC6D4}|classes.vcxproj|solutionrelative:Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentMain.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\StudentMain.cpp",
+              "RelativeDocumentMoniker": "StudentMain.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\StudentMain.cpp*",
+              "RelativeToolTip": "StudentMain.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T08:31:08.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T08:23:05.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T08:17:29.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "subject.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\subject.cpp",
+              "RelativeDocumentMoniker": "subject.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\subject.cpp",
+              "RelativeToolTip": "subject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T08:12:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Subject.h",
+              "RelativeDocumentMoniker": "Subject.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Subject.h",
+              "RelativeToolTip": "Subject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T08:08:02.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circle.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Circle.cpp",
+              "RelativeToolTip": "Circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:32:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circle.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Circle.h",
+              "RelativeDocumentMoniker": "Circle.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Circle.h",
+              "RelativeToolTip": "Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T07:29:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "circleMain.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\circleMain.cpp",
+              "RelativeDocumentMoniker": "circleMain.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\circleMain.cpp",
+              "RelativeToolTip": "circleMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:29:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Point.cpp",
+              "RelativeDocumentMoniker": "Point.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Point.cpp",
+              "RelativeToolTip": "Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:26:37.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Point.h",
+              "RelativeDocumentMoniker": "Point.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\Point.h",
+              "RelativeToolTip": "Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T07:24:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberService.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day18\\classes\\MemberService.cpp",
+              "RelativeDocumentMoniker": "MemberService.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day18\\classes\\MemberService.cpp",
+              "RelativeToolTip": "MemberService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:02:39.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
