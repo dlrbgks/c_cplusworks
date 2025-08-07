@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day21\\classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2480ED31-3D1E-4694-8A06-32A69BB299FF}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\classes\\vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2480ED31-3D1E-4694-8A06-32A69BB299FF}|classes.vcxproj|solutionrelative:vectorString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2480ED31-3D1E-4694-8A06-32A69BB299FF}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\classes\\vertorInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2480ED31-3D1E-4694-8A06-32A69BB299FF}|classes.vcxproj|solutionrelative:vertorInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vectorString.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\classes\\vectorString.cpp",
+              "RelativeDocumentMoniker": "vectorString.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\classes\\vectorString.cpp",
+              "RelativeToolTip": "vectorString.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T07:19:11.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vertorInt.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\classes\\vertorInt.cpp",
+              "RelativeDocumentMoniker": "vertorInt.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\classes\\vertorInt.cpp",
+              "RelativeToolTip": "vertorInt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T07:09:13.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day19\\classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\StudentsMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:StudentsMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Students.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Students.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\transportMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:transportMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|D:\\c_1600_lgh\\workplace\\day19\\classes\\Bus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D17B012-2889-42F6-95D7-7233D9957B4F}|classes.vcxproj|solutionrelative:Bus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsMain.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\StudentsMain.cpp",
+              "RelativeDocumentMoniker": "StudentsMain.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\StudentsMain.cpp",
+              "RelativeToolTip": "StudentsMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T08:16:58.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Students.cpp",
+              "RelativeDocumentMoniker": "Students.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Students.cpp",
+              "RelativeToolTip": "Students.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T08:02:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Subject.h",
+              "RelativeDocumentMoniker": "Subject.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Subject.h",
+              "RelativeToolTip": "Subject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T07:52:46.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T07:52:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:49:45.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Students.h",
+              "RelativeDocumentMoniker": "Students.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Students.h",
+              "RelativeToolTip": "Students.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T07:48:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reference.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\reference.cpp",
+              "RelativeDocumentMoniker": "reference.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\reference.cpp",
+              "RelativeToolTip": "reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:29:18.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "transportMain.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\transportMain.cpp",
+              "RelativeDocumentMoniker": "transportMain.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\transportMain.cpp",
+              "RelativeToolTip": "transportMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:16:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:09:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T07:04:00.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bus.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Bus.cpp",
+              "RelativeDocumentMoniker": "Bus.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Bus.cpp",
+              "RelativeToolTip": "Bus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:03:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bus.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Bus.h",
+              "RelativeDocumentMoniker": "Bus.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day19\\classes\\Bus.h",
+              "RelativeToolTip": "Bus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T07:03:18.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

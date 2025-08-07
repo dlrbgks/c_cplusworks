@@ -1,0 +1,13 @@
+﻿  AnimalMain.cpp
+D:\c_1600_lgh\workplace\day22\Animaltest\AnimalMain.cpp(12,7): error C2248: 'Cat::cry': private 멤버('Cat' 클래스에서 선언)에 액세스할 수 없습니다.
+      D:\c_1600_lgh\workplace\day22\Animaltest\Cat.h(7,7):
+      'Cat::cry' 선언을 참조하십시오.
+      D:\c_1600_lgh\workplace\day22\Animaltest\Cat.h(5,7):
+      'Cat' 선언을 참조하십시오.
+  
+D:\c_1600_lgh\workplace\day22\Animaltest\AnimalMain.cpp(17,2): error C2248: 'Cat::~Cat': private 멤버('Cat' 클래스에서 선언)에 액세스할 수 없습니다.
+      D:\c_1600_lgh\workplace\day22\Animaltest\Cat.h(9,1):
+      컴파일러에서 여기에 'Cat::~Cat'을(를) 생성했습니다.
+      D:\c_1600_lgh\workplace\day22\Animaltest\Cat.h(5,7):
+      'Cat' 선언을 참조하십시오.
+  

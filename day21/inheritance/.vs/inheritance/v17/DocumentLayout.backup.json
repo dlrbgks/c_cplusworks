@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\inheritance\\studentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|solutionrelative:studentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDDD2082-248C-4D9F-A3BA-448380FFA576}|inheritance.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentMain.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\studentMain.cpp",
+              "RelativeDocumentMoniker": "studentMain.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\studentMain.cpp",
+              "RelativeToolTip": "studentMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T08:50:35.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T08:45:11.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-04T08:42:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T08:39:27.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day21\\inheritance\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-04T08:37:20.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

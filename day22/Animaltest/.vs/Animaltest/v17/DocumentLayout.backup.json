@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\AnimalMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:AnimalMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A819D-287A-46B3-8C5B-EDDD40B7A151}|Animaltest.vcxproj|solutionrelative:Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Dog.cpp",
+              "RelativeDocumentMoniker": "Dog.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Dog.cpp",
+              "RelativeToolTip": "Dog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T08:32:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Cat.cpp",
+              "RelativeDocumentMoniker": "Cat.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Cat.cpp",
+              "RelativeToolTip": "Cat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T08:32:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Animal.cpp",
+              "RelativeDocumentMoniker": "Animal.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Animal.cpp",
+              "RelativeToolTip": "Animal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T08:31:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalMain.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\AnimalMain.cpp",
+              "RelativeDocumentMoniker": "AnimalMain.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\AnimalMain.cpp*",
+              "RelativeToolTip": "AnimalMain.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T08:32:10.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Dog.h",
+              "RelativeDocumentMoniker": "Dog.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Dog.h",
+              "RelativeToolTip": "Dog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T08:32:28.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Cat.h",
+              "RelativeDocumentMoniker": "Cat.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Cat.h",
+              "RelativeToolTip": "Cat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T08:32:23.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.h",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Animal.h",
+              "RelativeDocumentMoniker": "Animal.h",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day22\\Animaltest\\Animal.h",
+              "RelativeToolTip": "Animal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T08:32:17.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

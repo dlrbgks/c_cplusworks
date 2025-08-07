@@ -1,0 +1,3 @@
+﻿  BankMain.cpp
+D:\c_1600_lgh\workplace\day24\BankProject2\BankMain.cpp(79,6): warning C4101: 'amount' :참조되지 않은 지역 변수입니다.
+  BankProject2.vcxproj -> D:\c_1600_lgh\workplace\day24\BankProject2\x64\Debug\BankProject2.exe

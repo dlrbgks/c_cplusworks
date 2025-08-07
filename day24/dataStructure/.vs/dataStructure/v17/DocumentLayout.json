@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\cartList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|solutionrelative:cartList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\queueEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|solutionrelative:queueEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\stackChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|solutionrelative:stackChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\stackEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D4FCC5-A453-418F-B1ED-0D579D2FC67F}|dataStructure.vcxproj|solutionrelative:stackEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cartList.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\cartList.cpp",
+              "RelativeDocumentMoniker": "cartList.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\cartList.cpp",
+              "RelativeToolTip": "cartList.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:42:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queueEx.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\queueEx.cpp",
+              "RelativeDocumentMoniker": "queueEx.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\queueEx.cpp",
+              "RelativeToolTip": "queueEx.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:25:26.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stackChar.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\stackChar.cpp",
+              "RelativeDocumentMoniker": "stackChar.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\stackChar.cpp",
+              "RelativeToolTip": "stackChar.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:09:56.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stackEx.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\stackEx.cpp",
+              "RelativeDocumentMoniker": "stackEx.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day24\\dataStructure\\stackEx.cpp",
+              "RelativeToolTip": "stackEx.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:03:35.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
